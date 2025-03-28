@@ -1,0 +1,16 @@
+Para diferencias finitas .... 
+
+Si tengo un termino que acompaña a la derivada de orden 2, hago diferencias finitas con los otros terminos y agrupo y la matriz que se arma me quedan diferente
+
+El deltaX me afecta el tamaño de la matriz y la cantidad de cuentas que se hacen. 
+
+En un problema bidimencional, sera la cantidad de puntos que tenga la grilla. 
+
+Modificar el problema considerando 4 temperaturas
+
+Tomar puntos razonables - Empezar con 5 puntos.
+
+El tiempo es el tamaño del grillado al cubo. 
+
+La perpendicular a la isoterna son el flujo de calor. 
+
